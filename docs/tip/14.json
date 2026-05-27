@@ -1,0 +1,7 @@
+{
+  "id": 14,
+  "functionality": "Combine Columns",
+  "title": "Combine Columns: Merge Multiple Excel Columns into One",
+  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
+  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
+}

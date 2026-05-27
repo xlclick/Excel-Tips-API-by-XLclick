@@ -1,0 +1,7 @@
+{
+  "id": 31,
+  "functionality": "List Files",
+  "title": "List Files: Create an Excel List of All Folder Files",
+  "description": "Creates an Excel list of all files inside a folder on your computer — including file names, sizes, dates modified, and full paths. Can scan subfolders too. Great for file inventories, project handovers, audits, or documenting what exists in a folder to share with a client or team.",
+  "url": "https://xlclick.com/tutorials/list-folder-files-excel/"
+}

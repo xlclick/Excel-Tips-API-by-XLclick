@@ -1,0 +1,7 @@
+{
+  "id": 19,
+  "functionality": "Reverse Vertical",
+  "title": "Reverse Vertical: Reverse Excel Row Order",
+  "description": "Flips the row order from top to bottom — the last row becomes the first. Useful when your data is sorted oldest to newest and you need newest first, or any time you need to invert a list quickly without manually resorting it.",
+  "url": "https://xlclick.com/tutorials/reverse-rows-excel/"
+}

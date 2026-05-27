@@ -1,0 +1,7 @@
+{
+  "id": 10,
+  "functionality": "Data Fixer",
+  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "xlclick-tips-api",
+  "version": "1.0.0",
+  "description": "Static JSON API serving daily Excel productivity tips from XLClick.com — hosted on GitHub Pages",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "generate:today": "node scripts/generate.js --today",
+    "generate:random": "node scripts/generate.js --random",
+    "test": "node scripts/generate.js && echo 'Generation OK'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/xlclick-tips-api.git"
+  },
+  "keywords": ["excel", "tips", "api", "xlclick", "github-pages"],
+  "license": "MIT"
+}

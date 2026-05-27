@@ -1,0 +1,240 @@
+[
+  {
+    "id": 0,
+    "functionality": "Deep Refresh",
+    "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
+    "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
+    "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
+  },
+  {
+    "id": 1,
+    "functionality": "Emails",
+    "title": "Extract & Clean Email Lists in Excel",
+    "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
+    "url": "https://xlclick.com/tutorials/clean-emails-excel/"
+  },
+  {
+    "id": 2,
+    "functionality": "Numbers",
+    "title": "Remove Text from Numbers in Excel Fast",
+    "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
+    "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
+  },
+  {
+    "id": 3,
+    "functionality": "Links",
+    "title": "Extract Links & Domains from Excel Text",
+    "description": "Finds all website URLs hiding inside your text cells and pulls them into a clean separate column. You can extract just the domain name or the full web address. Useful when you have notes or descriptions with links buried in the text and need them organized.",
+    "url": "https://xlclick.com/tutorials/extract-links-excel/"
+  },
+  {
+    "id": 4,
+    "functionality": "Pattern Matcher",
+    "title": "Extract Specific Text Patterns in Excel",
+    "description": "Pulls a specific piece of text from your cells based on a pattern you define — for example, everything between two symbols, the first few characters, or text after a specific word. Great for cleaning up product codes, invoice numbers, or any data that follows a consistent format.",
+    "url": "https://xlclick.com/tutorials/extract-text-patterns-excel/"
+  },
+  {
+    "id": 5,
+    "functionality": "Data Anonymizer",
+    "title": "Data Anonymizer: How to Anonymize Sensitive Data in Excel",
+    "description": "Hides real names and emails before you share a file with someone outside your company. Replaces them with random but realistic-looking fake data. Keeps you compliant with privacy laws like GDPR without extra effort — essential before sharing files with freelancers or agencies.",
+    "url": "https://xlclick.com/tutorials/anonymize-data-excel/"
+  },
+  {
+    "id": 6,
+    "functionality": "Format Case",
+    "title": "Format Case: Change Text Case in Excel Automatically",
+    "description": "Changes the capitalization of your text in one click — ALL CAPS, lowercase, Proper Case, or a web-friendly format like \"my-product-name\". Great for making product names, client names, or titles consistent across a long list without editing each cell manually.",
+    "url": "https://xlclick.com/tutorials/change-text-case-excel/"
+  },
+  {
+    "id": 7,
+    "functionality": "Remove Text and Spaces",
+    "title": "Bulk Remove Text and Spaces in Excel",
+    "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
+    "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
+  },
+  {
+    "id": 8,
+    "functionality": "Delete Empty Rows/Cols",
+    "title": "Delete All Empty Rows & Columns Fast in Excel",
+    "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
+    "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
+  },
+  {
+    "id": 9,
+    "functionality": "Clear Comments",
+    "title": "Clear Comments: Remove All Excel Comments Instantly",
+    "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
+    "url": "https://xlclick.com/tutorials/remove-comments-excel/"
+  },
+  {
+    "id": 10,
+    "functionality": "Data Fixer",
+    "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+    "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+    "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
+  },
+  {
+    "id": 11,
+    "functionality": "Deduplicate",
+    "title": "Deduplicate: Find & Remove Duplicates in Excel",
+    "description": "Finds and removes duplicate entries from your list. If the same email or name appears multiple times, you keep one and delete the rest. You can also highlight duplicates first to review them, or copy only the unique values to a new sheet.",
+    "url": "https://xlclick.com/tutorials/remove-duplicates-excel/"
+  },
+  {
+    "id": 12,
+    "functionality": "Text to Columns",
+    "title": "Text to Columns: Split One Excel Column into Many",
+    "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
+    "url": "https://xlclick.com/tutorials/split-columns-excel/"
+  },
+  {
+    "id": 13,
+    "functionality": "Split to Rows",
+    "title": "Split Cell Contents into Multiple Rows in Excel",
+    "description": "Our most loved feature: converts a single cell with multiple values into separate rows. This tool splits delimited text into new rows while duplicating adjacent data. It processes your selected column and outputs the reorganized results onto a new sheet.",
+    "url": "https://xlclick.com/tutorials/split-cells-rows-excel/"
+  },
+  {
+    "id": 14,
+    "functionality": "Combine Columns",
+    "title": "Combine Columns: Merge Multiple Excel Columns into One",
+    "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
+    "url": "https://xlclick.com/tutorials/merge-columns-excel/"
+  },
+  {
+    "id": 15,
+    "functionality": "Combine Rows",
+    "title": "Combine Rows: Merge Multiple Excel Rows into One Cell",
+    "description": "Merges multiple rows into one cell. If you have tags, options, or values spread across several rows for the same item, this collapses them into a single cell with a separator of your choice. Handy for summarizing lists or preparing data for export.",
+    "url": "https://xlclick.com/tutorials/merge-rows-cell-excel/"
+  },
+  {
+    "id": 16,
+    "functionality": "Combine sheets",
+    "title": "Combine sheets: Merge Multiple Excel Files & Sheets",
+    "description": "Merges multiple sheets or files into one. Import several Excel files as separate tabs, or stack all your sheets into one big sheet. Perfect for combining monthly reports or data files received from different team members into a single place.",
+    "url": "https://xlclick.com/tutorials/merge-files-sheets-excel/"
+  },
+  {
+    "id": 17,
+    "functionality": "Transpose Table",
+    "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
+    "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
+    "url": "https://xlclick.com/tutorials/transpose-data-excel/"
+  },
+  {
+    "id": 18,
+    "functionality": "Reverse Horizontal",
+    "title": "Reverse Horizontal: Reverse Excel Column Order",
+    "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
+    "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
+  },
+  {
+    "id": 19,
+    "functionality": "Reverse Vertical",
+    "title": "Reverse Vertical: Reverse Excel Row Order",
+    "description": "Flips the row order from top to bottom — the last row becomes the first. Useful when your data is sorted oldest to newest and you need newest first, or any time you need to invert a list quickly without manually resorting it.",
+    "url": "https://xlclick.com/tutorials/reverse-rows-excel/"
+  },
+  {
+    "id": 20,
+    "functionality": "Insert Blank Rows",
+    "title": "Insert Empty Rows at Regular Intervals in Excel",
+    "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
+    "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
+  },
+  {
+    "id": 21,
+    "functionality": "Sample Data Generator",
+    "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
+    "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
+    "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
+  },
+  {
+    "id": 22,
+    "functionality": "Fill Blanks",
+    "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+    "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+    "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
+  },
+  {
+    "id": 23,
+    "functionality": "Compare Lists",
+    "title": "Compare Lists: Compare Two Excel Lists for Differences",
+    "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
+    "url": "https://xlclick.com/tutorials/compare-lists-excel/"
+  },
+  {
+    "id": 24,
+    "functionality": "Data Matcher",
+    "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
+    "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
+    "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
+  },
+  {
+    "id": 25,
+    "functionality": "Power Search",
+    "title": "Power Search: The Ultimate Find & Replace for Excel",
+    "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
+    "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
+  },
+  {
+    "id": 26,
+    "functionality": "Focus Mode",
+    "title": "Focus Mode: Never Lose Your Place in Excel Again",
+    "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
+    "url": "https://xlclick.com/tutorials/focus-mode-excel/"
+  },
+  {
+    "id": 27,
+    "functionality": "Table Styler",
+    "title": "Table Styler: Make Professional Excel Tables in One Click",
+    "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
+    "url": "https://xlclick.com/tutorials/table-styler-excel/"
+  },
+  {
+    "id": 28,
+    "functionality": "Color Analysis",
+    "title": "Color Analysis: Sum & Count Cells by Color in Excel",
+    "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
+    "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
+  },
+  {
+    "id": 29,
+    "functionality": "File Downloader",
+    "title": "File Downloader: Download Hundreds of Files from Excel URLs",
+    "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
+    "url": "https://xlclick.com/tutorials/download-files-url-excel/"
+  },
+  {
+    "id": 30,
+    "functionality": "Bulk File Renamer",
+    "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+    "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+    "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
+  },
+  {
+    "id": 31,
+    "functionality": "List Files",
+    "title": "List Files: Create an Excel List of All Folder Files",
+    "description": "Creates an Excel list of all files inside a folder on your computer — including file names, sizes, dates modified, and full paths. Can scan subfolders too. Great for file inventories, project handovers, audits, or documenting what exists in a folder to share with a client or team.",
+    "url": "https://xlclick.com/tutorials/list-folder-files-excel/"
+  },
+  {
+    "id": 32,
+    "functionality": "Mass Sheet Exporter",
+    "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
+    "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
+    "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
+  },
+  {
+    "id": 33,
+    "functionality": "Split Sheet to Files",
+    "title": "Split Sheet to Files: Split One Big Excel File into Many",
+    "description": "Breaks a huge sheet into smaller files. If you have 50000 rows and need to split into chunks of 10000 rows each, this does it automatically and adds the header row to every output file. Useful when a system has a row limit or a file is simply too large to upload or share.",
+    "url": "https://xlclick.com/tutorials/split-large-file-excel/"
+  }
+]
