@@ -1,0 +1,54 @@
+name: Generate API Files
+
+on:
+  schedule:
+    # Regenerate today.json every day at 09:00 UTC
+    - cron: '0 9 * * *'
+    # Regenerate random.json every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Manual trigger — also used for the initial full generation
+
+jobs:
+  generate:
+    name: Generate static JSON
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Detect trigger type
+        id: trigger
+        run: |
+          EVENT="${{ github.event_name }}"
+          CRON="${{ github.event.schedule }}"
+
+          if [ "$EVENT" = "workflow_dispatch" ]; then
+            echo "mode=all" >> "$GITHUB_OUTPUT"
+          elif [ "$CRON" = "0 9 * * *" ]; then
+            echo "mode=today" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=random" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Generate all files (bootstrap / manual)
+        if: steps.trigger.outputs.mode == 'all'
+        run: node scripts/generate.js
+
+      - name: Regenerate today.json (daily)
+        if: steps.trigger.outputs.mode == 'today'
+        run: node scripts/generate.js --today
+
+      - name: Regenerate random.json (hourly)
+        if: steps.trigger.outputs.mode == 'random'
+        run: node scripts/generate.js --random
+
+      - name: Commit and push updated files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet && echo "No changes to commit." || \
+            git commit -m "chore: regenerate API files [skip ci]" && git push
