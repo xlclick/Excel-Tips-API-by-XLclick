@@ -1,7 +1,7 @@
 {
-  "id": 17,
-  "functionality": "Transpose Table",
-  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
-  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
-  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
+  "id": 21,
+  "functionality": "Sample Data Generator",
+  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
+  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
+  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
 }
