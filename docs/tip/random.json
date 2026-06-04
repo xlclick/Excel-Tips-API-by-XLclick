@@ -1,7 +1,7 @@
 {
-  "id": 20,
-  "functionality": "Insert Blank Rows",
-  "title": "Insert Empty Rows at Regular Intervals in Excel",
-  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
-  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
+  "id": 3,
+  "functionality": "Links",
+  "title": "Extract Links & Domains from Excel Text",
+  "description": "Finds all website URLs hiding inside your text cells and pulls them into a clean separate column. You can extract just the domain name or the full web address. Useful when you have notes or descriptions with links buried in the text and need them organized.",
+  "url": "https://xlclick.com/tutorials/extract-links-excel/"
 }
