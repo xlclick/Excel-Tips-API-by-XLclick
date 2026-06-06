@@ -1,7 +1,7 @@
 {
-  "id": 21,
-  "functionality": "Sample Data Generator",
-  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
-  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
-  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
+  "id": 24,
+  "functionality": "Data Matcher",
+  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
+  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
+  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
 }
