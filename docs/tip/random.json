@@ -1,7 +1,7 @@
 {
-  "id": 7,
-  "functionality": "Remove Text and Spaces",
-  "title": "Bulk Remove Text and Spaces in Excel",
-  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
-  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
+  "id": 20,
+  "functionality": "Insert Blank Rows",
+  "title": "Insert Empty Rows at Regular Intervals in Excel",
+  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
+  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
 }
