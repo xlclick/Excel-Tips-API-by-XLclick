@@ -1,7 +1,7 @@
 {
-  "id": 0,
-  "functionality": "Deep Refresh",
-  "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
-  "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
-  "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
+  "id": 19,
+  "functionality": "Reverse Vertical",
+  "title": "Reverse Vertical: Reverse Excel Row Order",
+  "description": "Flips the row order from top to bottom — the last row becomes the first. Useful when your data is sorted oldest to newest and you need newest first, or any time you need to invert a list quickly without manually resorting it.",
+  "url": "https://xlclick.com/tutorials/reverse-rows-excel/"
 }
