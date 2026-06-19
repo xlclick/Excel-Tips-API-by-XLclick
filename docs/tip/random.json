@@ -1,7 +1,7 @@
 {
-  "id": 10,
-  "functionality": "Data Fixer",
-  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
-  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
-  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
+  "id": 6,
+  "functionality": "Format Case",
+  "title": "Format Case: Change Text Case in Excel Automatically",
+  "description": "Changes the capitalization of your text in one click — ALL CAPS, lowercase, Proper Case, or a web-friendly format like \"my-product-name\". Great for making product names, client names, or titles consistent across a long list without editing each cell manually.",
+  "url": "https://xlclick.com/tutorials/change-text-case-excel/"
 }
