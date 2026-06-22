@@ -1,7 +1,7 @@
 {
-  "id": 9,
-  "functionality": "Clear Comments",
-  "title": "Clear Comments: Remove All Excel Comments Instantly",
-  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
-  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
+  "id": 6,
+  "functionality": "Format Case",
+  "title": "Format Case: Change Text Case in Excel Automatically",
+  "description": "Changes the capitalization of your text in one click — ALL CAPS, lowercase, Proper Case, or a web-friendly format like \"my-product-name\". Great for making product names, client names, or titles consistent across a long list without editing each cell manually.",
+  "url": "https://xlclick.com/tutorials/change-text-case-excel/"
 }
