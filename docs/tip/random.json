@@ -1,7 +1,7 @@
 {
-  "id": 24,
-  "functionality": "Data Matcher",
-  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
-  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
-  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
+  "id": 20,
+  "functionality": "Insert Blank Rows",
+  "title": "Insert Empty Rows at Regular Intervals in Excel",
+  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
+  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
 }
