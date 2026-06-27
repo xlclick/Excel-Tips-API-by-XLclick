@@ -1,7 +1,7 @@
 {
-  "id": 9,
-  "functionality": "Clear Comments",
-  "title": "Clear Comments: Remove All Excel Comments Instantly",
-  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
-  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
+  "id": 23,
+  "functionality": "Compare Lists",
+  "title": "Compare Lists: Compare Two Excel Lists for Differences",
+  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
+  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
 }
