@@ -1,7 +1,7 @@
 {
-  "id": 30,
-  "functionality": "Bulk File Renamer",
-  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
-  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
-  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
+  "id": 13,
+  "functionality": "Split to Rows",
+  "title": "Split Cell Contents into Multiple Rows in Excel",
+  "description": "Our most loved feature: converts a single cell with multiple values into separate rows. This tool splits delimited text into new rows while duplicating adjacent data. It processes your selected column and outputs the reorganized results onto a new sheet.",
+  "url": "https://xlclick.com/tutorials/split-cells-rows-excel/"
 }
