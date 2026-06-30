@@ -1,7 +1,7 @@
 {
-  "id": 29,
-  "functionality": "File Downloader",
-  "title": "File Downloader: Download Hundreds of Files from Excel URLs",
-  "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
-  "url": "https://xlclick.com/tutorials/download-files-url-excel/"
+  "id": 26,
+  "functionality": "Focus Mode",
+  "title": "Focus Mode: Never Lose Your Place in Excel Again",
+  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
+  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
 }
