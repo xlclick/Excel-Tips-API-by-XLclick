@@ -1,7 +1,7 @@
 {
-  "id": 26,
-  "functionality": "Focus Mode",
-  "title": "Focus Mode: Never Lose Your Place in Excel Again",
-  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
-  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
+  "id": 4,
+  "functionality": "Pattern Matcher",
+  "title": "Extract Specific Text Patterns in Excel",
+  "description": "Pulls a specific piece of text from your cells based on a pattern you define — for example, everything between two symbols, the first few characters, or text after a specific word. Great for cleaning up product codes, invoice numbers, or any data that follows a consistent format.",
+  "url": "https://xlclick.com/tutorials/extract-text-patterns-excel/"
 }
