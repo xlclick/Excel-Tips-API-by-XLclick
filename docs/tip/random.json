@@ -1,7 +1,7 @@
 {
-  "id": 5,
-  "functionality": "Data Anonymizer",
-  "title": "Data Anonymizer: How to Anonymize Sensitive Data in Excel",
-  "description": "Hides real names and emails before you share a file with someone outside your company. Replaces them with random but realistic-looking fake data. Keeps you compliant with privacy laws like GDPR without extra effort — essential before sharing files with freelancers or agencies.",
-  "url": "https://xlclick.com/tutorials/anonymize-data-excel/"
+  "id": 29,
+  "functionality": "File Downloader",
+  "title": "File Downloader: Download Hundreds of Files from Excel URLs",
+  "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
+  "url": "https://xlclick.com/tutorials/download-files-url-excel/"
 }
