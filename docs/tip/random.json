@@ -1,7 +1,7 @@
 {
-  "id": 24,
-  "functionality": "Data Matcher",
-  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
-  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
-  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
+  "id": 14,
+  "functionality": "Combine Columns",
+  "title": "Combine Columns: Merge Multiple Excel Columns into One",
+  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
+  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
 }
