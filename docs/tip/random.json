@@ -1,7 +1,7 @@
 {
-  "id": 28,
-  "functionality": "Color Analysis",
-  "title": "Color Analysis: Sum & Count Cells by Color in Excel",
-  "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
-  "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
+  "id": 3,
+  "functionality": "Links",
+  "title": "Extract Links & Domains from Excel Text",
+  "description": "Finds all website URLs hiding inside your text cells and pulls them into a clean separate column. You can extract just the domain name or the full web address. Useful when you have notes or descriptions with links buried in the text and need them organized.",
+  "url": "https://xlclick.com/tutorials/extract-links-excel/"
 }
