@@ -1,7 +1,7 @@
 {
-  "id": 3,
-  "functionality": "Links",
-  "title": "Extract Links & Domains from Excel Text",
-  "description": "Finds all website URLs hiding inside your text cells and pulls them into a clean separate column. You can extract just the domain name or the full web address. Useful when you have notes or descriptions with links buried in the text and need them organized.",
-  "url": "https://xlclick.com/tutorials/extract-links-excel/"
+  "id": 29,
+  "functionality": "File Downloader",
+  "title": "File Downloader: Download Hundreds of Files from Excel URLs",
+  "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
+  "url": "https://xlclick.com/tutorials/download-files-url-excel/"
 }
