@@ -1,7 +1,7 @@
 {
-  "id": 11,
-  "functionality": "Deduplicate",
-  "title": "Deduplicate: Find & Remove Duplicates in Excel",
-  "description": "Finds and removes duplicate entries from your list. If the same email or name appears multiple times, you keep one and delete the rest. You can also highlight duplicates first to review them, or copy only the unique values to a new sheet.",
-  "url": "https://xlclick.com/tutorials/remove-duplicates-excel/"
+  "id": 27,
+  "functionality": "Table Styler",
+  "title": "Table Styler: Make Professional Excel Tables in One Click",
+  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
+  "url": "https://xlclick.com/tutorials/table-styler-excel/"
 }
