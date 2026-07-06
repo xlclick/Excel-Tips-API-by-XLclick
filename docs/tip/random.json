@@ -1,7 +1,7 @@
 {
-  "id": 28,
-  "functionality": "Color Analysis",
-  "title": "Color Analysis: Sum & Count Cells by Color in Excel",
-  "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
-  "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
+  "id": 2,
+  "functionality": "Numbers",
+  "title": "Remove Text from Numbers in Excel Fast",
+  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
+  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
 }
