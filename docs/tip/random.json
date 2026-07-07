@@ -1,7 +1,7 @@
 {
-  "id": 4,
-  "functionality": "Pattern Matcher",
-  "title": "Extract Specific Text Patterns in Excel",
-  "description": "Pulls a specific piece of text from your cells based on a pattern you define — for example, everything between two symbols, the first few characters, or text after a specific word. Great for cleaning up product codes, invoice numbers, or any data that follows a consistent format.",
-  "url": "https://xlclick.com/tutorials/extract-text-patterns-excel/"
+  "id": 10,
+  "functionality": "Data Fixer",
+  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
 }
