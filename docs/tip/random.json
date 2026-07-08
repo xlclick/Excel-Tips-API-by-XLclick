@@ -1,7 +1,7 @@
 {
-  "id": 10,
-  "functionality": "Data Fixer",
-  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
-  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
-  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
+  "id": 21,
+  "functionality": "Sample Data Generator",
+  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
+  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
+  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
 }
