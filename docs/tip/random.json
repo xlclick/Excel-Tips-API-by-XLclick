@@ -1,7 +1,7 @@
 {
-  "id": 1,
-  "functionality": "Emails",
-  "title": "Extract & Clean Email Lists in Excel",
-  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
-  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
+  "id": 0,
+  "functionality": "Deep Refresh",
+  "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
+  "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
+  "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
 }
