@@ -1,7 +1,7 @@
 {
-  "id": 9,
-  "functionality": "Clear Comments",
-  "title": "Clear Comments: Remove All Excel Comments Instantly",
-  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
-  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
+  "id": 25,
+  "functionality": "Power Search",
+  "title": "Power Search: The Ultimate Find & Replace for Excel",
+  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
+  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
 }
