@@ -1,7 +1,7 @@
 {
-  "id": 22,
-  "functionality": "Fill Blanks",
-  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
-  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
-  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
+  "id": 28,
+  "functionality": "Color Analysis",
+  "title": "Color Analysis: Sum & Count Cells by Color in Excel",
+  "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
+  "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
 }
