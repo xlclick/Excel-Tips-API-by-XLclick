@@ -1,7 +1,7 @@
 {
-  "id": 18,
-  "functionality": "Reverse Horizontal",
-  "title": "Reverse Horizontal: Reverse Excel Column Order",
-  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
-  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
+  "id": 9,
+  "functionality": "Clear Comments",
+  "title": "Clear Comments: Remove All Excel Comments Instantly",
+  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
+  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
 }
