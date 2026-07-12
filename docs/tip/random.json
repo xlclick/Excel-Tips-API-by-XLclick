@@ -1,7 +1,7 @@
 {
-  "id": 13,
-  "functionality": "Split to Rows",
-  "title": "Split Cell Contents into Multiple Rows in Excel",
-  "description": "Our most loved feature: converts a single cell with multiple values into separate rows. This tool splits delimited text into new rows while duplicating adjacent data. It processes your selected column and outputs the reorganized results onto a new sheet.",
-  "url": "https://xlclick.com/tutorials/split-cells-rows-excel/"
+  "id": 16,
+  "functionality": "Combine sheets",
+  "title": "Combine sheets: Merge Multiple Excel Files & Sheets",
+  "description": "Merges multiple sheets or files into one. Import several Excel files as separate tabs, or stack all your sheets into one big sheet. Perfect for combining monthly reports or data files received from different team members into a single place.",
+  "url": "https://xlclick.com/tutorials/merge-files-sheets-excel/"
 }
