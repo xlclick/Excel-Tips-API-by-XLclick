@@ -1,7 +1,7 @@
 {
-  "id": 25,
-  "functionality": "Power Search",
-  "title": "Power Search: The Ultimate Find & Replace for Excel",
-  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
-  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
+  "id": 13,
+  "functionality": "Split to Rows",
+  "title": "Split Cell Contents into Multiple Rows in Excel",
+  "description": "Our most loved feature: converts a single cell with multiple values into separate rows. This tool splits delimited text into new rows while duplicating adjacent data. It processes your selected column and outputs the reorganized results onto a new sheet.",
+  "url": "https://xlclick.com/tutorials/split-cells-rows-excel/"
 }
