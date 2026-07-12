@@ -1,7 +1,7 @@
 {
-  "id": 11,
-  "functionality": "Deduplicate",
-  "title": "Deduplicate: Find & Remove Duplicates in Excel",
-  "description": "Finds and removes duplicate entries from your list. If the same email or name appears multiple times, you keep one and delete the rest. You can also highlight duplicates first to review them, or copy only the unique values to a new sheet.",
-  "url": "https://xlclick.com/tutorials/remove-duplicates-excel/"
+  "id": 7,
+  "functionality": "Remove Text and Spaces",
+  "title": "Bulk Remove Text and Spaces in Excel",
+  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
+  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
 }
