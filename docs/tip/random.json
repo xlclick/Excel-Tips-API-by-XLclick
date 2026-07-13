@@ -1,7 +1,7 @@
 {
-  "id": 8,
-  "functionality": "Delete Empty Rows/Cols",
-  "title": "Delete All Empty Rows & Columns Fast in Excel",
-  "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
-  "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
+  "id": 30,
+  "functionality": "Bulk File Renamer",
+  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
 }
