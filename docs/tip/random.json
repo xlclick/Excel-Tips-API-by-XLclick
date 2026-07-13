@@ -1,7 +1,7 @@
 {
-  "id": 25,
-  "functionality": "Power Search",
-  "title": "Power Search: The Ultimate Find & Replace for Excel",
-  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
-  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
+  "id": 5,
+  "functionality": "Data Anonymizer",
+  "title": "Data Anonymizer: How to Anonymize Sensitive Data in Excel",
+  "description": "Hides real names and emails before you share a file with someone outside your company. Replaces them with random but realistic-looking fake data. Keeps you compliant with privacy laws like GDPR without extra effort — essential before sharing files with freelancers or agencies.",
+  "url": "https://xlclick.com/tutorials/anonymize-data-excel/"
 }
