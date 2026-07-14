@@ -1,7 +1,7 @@
 {
-  "id": 2,
-  "functionality": "Numbers",
-  "title": "Remove Text from Numbers in Excel Fast",
-  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
-  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
+  "id": 15,
+  "functionality": "Combine Rows",
+  "title": "Combine Rows: Merge Multiple Excel Rows into One Cell",
+  "description": "Merges multiple rows into one cell. If you have tags, options, or values spread across several rows for the same item, this collapses them into a single cell with a separator of your choice. Handy for summarizing lists or preparing data for export.",
+  "url": "https://xlclick.com/tutorials/merge-rows-cell-excel/"
 }
