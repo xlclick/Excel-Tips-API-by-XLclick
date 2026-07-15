@@ -1,7 +1,7 @@
 {
-  "id": 33,
-  "functionality": "Split Sheet to Files",
-  "title": "Split Sheet to Files: Split One Big Excel File into Many",
-  "description": "Breaks a huge sheet into smaller files. If you have 50000 rows and need to split into chunks of 10000 rows each, this does it automatically and adds the header row to every output file. Useful when a system has a row limit or a file is simply too large to upload or share.",
-  "url": "https://xlclick.com/tutorials/split-large-file-excel/"
+  "id": 32,
+  "functionality": "Mass Sheet Exporter",
+  "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
+  "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
+  "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
 }
