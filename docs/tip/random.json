@@ -1,7 +1,7 @@
 {
-  "id": 18,
-  "functionality": "Reverse Horizontal",
-  "title": "Reverse Horizontal: Reverse Excel Column Order",
-  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
-  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
+  "id": 33,
+  "functionality": "Split Sheet to Files",
+  "title": "Split Sheet to Files: Split One Big Excel File into Many",
+  "description": "Breaks a huge sheet into smaller files. If you have 50000 rows and need to split into chunks of 10000 rows each, this does it automatically and adds the header row to every output file. Useful when a system has a row limit or a file is simply too large to upload or share.",
+  "url": "https://xlclick.com/tutorials/split-large-file-excel/"
 }
