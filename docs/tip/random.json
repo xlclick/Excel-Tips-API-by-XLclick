@@ -1,7 +1,7 @@
 {
-  "id": 24,
-  "functionality": "Data Matcher",
-  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
-  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
-  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
+  "id": 27,
+  "functionality": "Table Styler",
+  "title": "Table Styler: Make Professional Excel Tables in One Click",
+  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
+  "url": "https://xlclick.com/tutorials/table-styler-excel/"
 }
