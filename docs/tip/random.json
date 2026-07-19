@@ -1,7 +1,7 @@
 {
-  "id": 18,
-  "functionality": "Reverse Horizontal",
-  "title": "Reverse Horizontal: Reverse Excel Column Order",
-  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
-  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
+  "id": 7,
+  "functionality": "Remove Text and Spaces",
+  "title": "Bulk Remove Text and Spaces in Excel",
+  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
+  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
 }
