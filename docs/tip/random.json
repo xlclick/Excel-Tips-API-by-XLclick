@@ -1,7 +1,7 @@
 {
-  "id": 7,
-  "functionality": "Remove Text and Spaces",
-  "title": "Bulk Remove Text and Spaces in Excel",
-  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
-  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
+  "id": 27,
+  "functionality": "Table Styler",
+  "title": "Table Styler: Make Professional Excel Tables in One Click",
+  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
+  "url": "https://xlclick.com/tutorials/table-styler-excel/"
 }
