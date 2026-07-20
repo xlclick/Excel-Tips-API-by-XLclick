@@ -1,7 +1,7 @@
 {
-  "id": 18,
-  "functionality": "Reverse Horizontal",
-  "title": "Reverse Horizontal: Reverse Excel Column Order",
-  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
-  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
+  "id": 27,
+  "functionality": "Table Styler",
+  "title": "Table Styler: Make Professional Excel Tables in One Click",
+  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
+  "url": "https://xlclick.com/tutorials/table-styler-excel/"
 }
