@@ -1,7 +1,7 @@
 {
-  "id": 29,
-  "functionality": "File Downloader",
-  "title": "File Downloader: Download Hundreds of Files from Excel URLs",
-  "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
-  "url": "https://xlclick.com/tutorials/download-files-url-excel/"
+  "id": 30,
+  "functionality": "Bulk File Renamer",
+  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
 }
