@@ -1,7 +1,7 @@
 {
-  "id": 26,
-  "functionality": "Focus Mode",
-  "title": "Focus Mode: Never Lose Your Place in Excel Again",
-  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
-  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
+  "id": 31,
+  "functionality": "List Files",
+  "title": "List Files: Create an Excel List of All Folder Files",
+  "description": "Creates an Excel list of all files inside a folder on your computer — including file names, sizes, dates modified, and full paths. Can scan subfolders too. Great for file inventories, project handovers, audits, or documenting what exists in a folder to share with a client or team.",
+  "url": "https://xlclick.com/tutorials/list-folder-files-excel/"
 }
