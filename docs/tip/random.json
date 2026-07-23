@@ -1,7 +1,7 @@
 {
-  "id": 22,
-  "functionality": "Fill Blanks",
-  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
-  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
-  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
+  "id": 13,
+  "functionality": "Split to Rows",
+  "title": "Split Cell Contents into Multiple Rows in Excel",
+  "description": "Our most loved feature: converts a single cell with multiple values into separate rows. This tool splits delimited text into new rows while duplicating adjacent data. It processes your selected column and outputs the reorganized results onto a new sheet.",
+  "url": "https://xlclick.com/tutorials/split-cells-rows-excel/"
 }
