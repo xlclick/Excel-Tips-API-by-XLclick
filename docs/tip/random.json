@@ -1,7 +1,7 @@
 {
-  "id": 20,
-  "functionality": "Insert Blank Rows",
-  "title": "Insert Empty Rows at Regular Intervals in Excel",
-  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
-  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
+  "id": 21,
+  "functionality": "Sample Data Generator",
+  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
+  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
+  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
 }
