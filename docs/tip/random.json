@@ -1,7 +1,7 @@
 {
-  "id": 23,
-  "functionality": "Compare Lists",
-  "title": "Compare Lists: Compare Two Excel Lists for Differences",
-  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
-  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
+  "id": 25,
+  "functionality": "Power Search",
+  "title": "Power Search: The Ultimate Find & Replace for Excel",
+  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
+  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
 }
