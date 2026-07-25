@@ -1,7 +1,7 @@
 {
-  "id": 25,
-  "functionality": "Power Search",
-  "title": "Power Search: The Ultimate Find & Replace for Excel",
-  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
-  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
+  "id": 30,
+  "functionality": "Bulk File Renamer",
+  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
 }
