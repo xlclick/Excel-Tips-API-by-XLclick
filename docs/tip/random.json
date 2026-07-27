@@ -1,7 +1,7 @@
 {
-  "id": 14,
-  "functionality": "Combine Columns",
-  "title": "Combine Columns: Merge Multiple Excel Columns into One",
-  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
-  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
+  "id": 10,
+  "functionality": "Data Fixer",
+  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
 }
