@@ -1,7 +1,7 @@
 {
-  "id": 10,
-  "functionality": "Data Fixer",
-  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
-  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
-  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
+  "id": 20,
+  "functionality": "Insert Blank Rows",
+  "title": "Insert Empty Rows at Regular Intervals in Excel",
+  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
+  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
 }
