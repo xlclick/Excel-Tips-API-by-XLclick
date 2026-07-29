@@ -1,7 +1,7 @@
 {
-  "id": 0,
-  "functionality": "Deep Refresh",
-  "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
-  "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
-  "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
+  "id": 24,
+  "functionality": "Data Matcher",
+  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
+  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
+  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
 }
