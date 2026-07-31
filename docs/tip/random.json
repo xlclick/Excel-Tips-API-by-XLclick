@@ -1,7 +1,7 @@
 {
-  "id": 14,
-  "functionality": "Combine Columns",
-  "title": "Combine Columns: Merge Multiple Excel Columns into One",
-  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
-  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
+  "id": 7,
+  "functionality": "Remove Text and Spaces",
+  "title": "Bulk Remove Text and Spaces in Excel",
+  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
+  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
 }
