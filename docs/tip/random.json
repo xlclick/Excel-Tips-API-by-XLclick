@@ -1,7 +1,7 @@
 {
-  "id": 1,
-  "functionality": "Emails",
-  "title": "Extract & Clean Email Lists in Excel",
-  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
-  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
+  "id": 20,
+  "functionality": "Insert Blank Rows",
+  "title": "Insert Empty Rows at Regular Intervals in Excel",
+  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
+  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
 }
