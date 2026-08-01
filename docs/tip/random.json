@@ -1,7 +1,7 @@
 {
-  "id": 26,
-  "functionality": "Focus Mode",
-  "title": "Focus Mode: Never Lose Your Place in Excel Again",
-  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
-  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
+  "id": 8,
+  "functionality": "Delete Empty Rows/Cols",
+  "title": "Delete All Empty Rows & Columns Fast in Excel",
+  "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
+  "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
 }
