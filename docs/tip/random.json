@@ -1,7 +1,7 @@
 {
-  "id": 33,
-  "functionality": "Split Sheet to Files",
-  "title": "Split Sheet to Files: Split One Big Excel File into Many",
-  "description": "Breaks a huge sheet into smaller files. If you have 50000 rows and need to split into chunks of 10000 rows each, this does it automatically and adds the header row to every output file. Useful when a system has a row limit or a file is simply too large to upload or share.",
-  "url": "https://xlclick.com/tutorials/split-large-file-excel/"
+  "id": 8,
+  "functionality": "Delete Empty Rows/Cols",
+  "title": "Delete All Empty Rows & Columns Fast in Excel",
+  "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
+  "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
 }
