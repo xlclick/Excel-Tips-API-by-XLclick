@@ -1,7 +1,7 @@
 {
-  "id": 27,
-  "functionality": "Table Styler",
-  "title": "Table Styler: Make Professional Excel Tables in One Click",
-  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
-  "url": "https://xlclick.com/tutorials/table-styler-excel/"
+  "id": 10,
+  "functionality": "Data Fixer",
+  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
 }
