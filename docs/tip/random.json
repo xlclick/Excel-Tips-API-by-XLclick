@@ -1,7 +1,7 @@
 {
-  "id": 33,
-  "functionality": "Split Sheet to Files",
-  "title": "Split Sheet to Files: Split One Big Excel File into Many",
-  "description": "Breaks a huge sheet into smaller files. If you have 50000 rows and need to split into chunks of 10000 rows each, this does it automatically and adds the header row to every output file. Useful when a system has a row limit or a file is simply too large to upload or share.",
-  "url": "https://xlclick.com/tutorials/split-large-file-excel/"
+  "id": 21,
+  "functionality": "Sample Data Generator",
+  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
+  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
+  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
 }
