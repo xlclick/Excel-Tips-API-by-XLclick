@@ -1,7 +1,7 @@
 {
-  "id": 17,
-  "functionality": "Transpose Table",
-  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
-  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
-  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
+  "id": 22,
+  "functionality": "Fill Blanks",
+  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
 }
