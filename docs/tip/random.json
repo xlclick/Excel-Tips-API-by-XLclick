@@ -1,7 +1,7 @@
 {
-  "id": 12,
-  "functionality": "Text to Columns",
-  "title": "Text to Columns: Split One Excel Column into Many",
-  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
-  "url": "https://xlclick.com/tutorials/split-columns-excel/"
+  "id": 25,
+  "functionality": "Power Search",
+  "title": "Power Search: The Ultimate Find & Replace for Excel",
+  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
+  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
 }
