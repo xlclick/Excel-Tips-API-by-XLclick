@@ -1,7 +1,7 @@
 {
-  "id": 22,
-  "functionality": "Fill Blanks",
-  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
-  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
-  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
+  "id": 26,
+  "functionality": "Focus Mode",
+  "title": "Focus Mode: Never Lose Your Place in Excel Again",
+  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
+  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
 }
