@@ -1,7 +1,7 @@
 {
-  "id": 9,
-  "functionality": "Clear Comments",
-  "title": "Clear Comments: Remove All Excel Comments Instantly",
-  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
-  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
+  "id": 32,
+  "functionality": "Mass Sheet Exporter",
+  "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
+  "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
+  "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
 }
