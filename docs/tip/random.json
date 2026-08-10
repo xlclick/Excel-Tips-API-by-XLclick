@@ -1,7 +1,7 @@
 {
-  "id": 7,
-  "functionality": "Remove Text and Spaces",
-  "title": "Bulk Remove Text and Spaces in Excel",
-  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
-  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
+  "id": 12,
+  "functionality": "Text to Columns",
+  "title": "Text to Columns: Split One Excel Column into Many",
+  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
+  "url": "https://xlclick.com/tutorials/split-columns-excel/"
 }
