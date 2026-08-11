@@ -1,7 +1,7 @@
 {
-  "id": 18,
-  "functionality": "Reverse Horizontal",
-  "title": "Reverse Horizontal: Reverse Excel Column Order",
-  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
-  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
+  "id": 28,
+  "functionality": "Color Analysis",
+  "title": "Color Analysis: Sum & Count Cells by Color in Excel",
+  "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
+  "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
 }
