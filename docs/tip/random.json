@@ -1,7 +1,7 @@
 {
-  "id": 14,
-  "functionality": "Combine Columns",
-  "title": "Combine Columns: Merge Multiple Excel Columns into One",
-  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
-  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
+  "id": 18,
+  "functionality": "Reverse Horizontal",
+  "title": "Reverse Horizontal: Reverse Excel Column Order",
+  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
+  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
 }
