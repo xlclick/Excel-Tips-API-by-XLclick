@@ -1,7 +1,7 @@
 {
-  "id": 15,
-  "functionality": "Combine Rows",
-  "title": "Combine Rows: Merge Multiple Excel Rows into One Cell",
-  "description": "Merges multiple rows into one cell. If you have tags, options, or values spread across several rows for the same item, this collapses them into a single cell with a separator of your choice. Handy for summarizing lists or preparing data for export.",
-  "url": "https://xlclick.com/tutorials/merge-rows-cell-excel/"
+  "id": 22,
+  "functionality": "Fill Blanks",
+  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
 }
