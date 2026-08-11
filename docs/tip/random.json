@@ -1,7 +1,7 @@
 {
-  "id": 22,
-  "functionality": "Fill Blanks",
-  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
-  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
-  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
+  "id": 30,
+  "functionality": "Bulk File Renamer",
+  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
 }
