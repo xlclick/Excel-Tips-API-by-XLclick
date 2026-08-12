@@ -1,7 +1,7 @@
 {
-  "id": 29,
-  "functionality": "File Downloader",
-  "title": "File Downloader: Download Hundreds of Files from Excel URLs",
-  "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
-  "url": "https://xlclick.com/tutorials/download-files-url-excel/"
+  "id": 11,
+  "functionality": "Deduplicate",
+  "title": "Deduplicate: Find & Remove Duplicates in Excel",
+  "description": "Finds and removes duplicate entries from your list. If the same email or name appears multiple times, you keep one and delete the rest. You can also highlight duplicates first to review them, or copy only the unique values to a new sheet.",
+  "url": "https://xlclick.com/tutorials/remove-duplicates-excel/"
 }
