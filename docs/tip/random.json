@@ -1,7 +1,7 @@
 {
-  "id": 28,
-  "functionality": "Color Analysis",
-  "title": "Color Analysis: Sum & Count Cells by Color in Excel",
-  "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
-  "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
+  "id": 9,
+  "functionality": "Clear Comments",
+  "title": "Clear Comments: Remove All Excel Comments Instantly",
+  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
+  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
 }
