@@ -1,7 +1,7 @@
 {
-  "id": 26,
-  "functionality": "Focus Mode",
-  "title": "Focus Mode: Never Lose Your Place in Excel Again",
-  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
-  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
+  "id": 10,
+  "functionality": "Data Fixer",
+  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
 }
