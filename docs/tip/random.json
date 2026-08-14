@@ -1,7 +1,7 @@
 {
-  "id": 4,
-  "functionality": "Pattern Matcher",
-  "title": "Extract Specific Text Patterns in Excel",
-  "description": "Pulls a specific piece of text from your cells based on a pattern you define — for example, everything between two symbols, the first few characters, or text after a specific word. Great for cleaning up product codes, invoice numbers, or any data that follows a consistent format.",
-  "url": "https://xlclick.com/tutorials/extract-text-patterns-excel/"
+  "id": 0,
+  "functionality": "Deep Refresh",
+  "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
+  "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
+  "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
 }
