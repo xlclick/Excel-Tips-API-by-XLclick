@@ -1,7 +1,7 @@
 {
-  "id": 11,
-  "functionality": "Deduplicate",
-  "title": "Deduplicate: Find & Remove Duplicates in Excel",
-  "description": "Finds and removes duplicate entries from your list. If the same email or name appears multiple times, you keep one and delete the rest. You can also highlight duplicates first to review them, or copy only the unique values to a new sheet.",
-  "url": "https://xlclick.com/tutorials/remove-duplicates-excel/"
+  "id": 26,
+  "functionality": "Focus Mode",
+  "title": "Focus Mode: Never Lose Your Place in Excel Again",
+  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
+  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
 }
