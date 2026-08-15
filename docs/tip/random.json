@@ -1,7 +1,7 @@
 {
-  "id": 20,
-  "functionality": "Insert Blank Rows",
-  "title": "Insert Empty Rows at Regular Intervals in Excel",
-  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
-  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
+  "id": 28,
+  "functionality": "Color Analysis",
+  "title": "Color Analysis: Sum & Count Cells by Color in Excel",
+  "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
+  "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
 }
