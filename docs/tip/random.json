@@ -1,7 +1,7 @@
 {
-  "id": 27,
-  "functionality": "Table Styler",
-  "title": "Table Styler: Make Professional Excel Tables in One Click",
-  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
-  "url": "https://xlclick.com/tutorials/table-styler-excel/"
+  "id": 12,
+  "functionality": "Text to Columns",
+  "title": "Text to Columns: Split One Excel Column into Many",
+  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
+  "url": "https://xlclick.com/tutorials/split-columns-excel/"
 }
