@@ -1,7 +1,7 @@
 {
-  "id": 30,
-  "functionality": "Bulk File Renamer",
-  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
-  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
-  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
+  "id": 23,
+  "functionality": "Compare Lists",
+  "title": "Compare Lists: Compare Two Excel Lists for Differences",
+  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
+  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
 }
