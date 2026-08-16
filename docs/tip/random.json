@@ -1,7 +1,7 @@
 {
-  "id": 3,
-  "functionality": "Links",
-  "title": "Extract Links & Domains from Excel Text",
-  "description": "Finds all website URLs hiding inside your text cells and pulls them into a clean separate column. You can extract just the domain name or the full web address. Useful when you have notes or descriptions with links buried in the text and need them organized.",
-  "url": "https://xlclick.com/tutorials/extract-links-excel/"
+  "id": 0,
+  "functionality": "Deep Refresh",
+  "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
+  "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
+  "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
 }
