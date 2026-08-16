@@ -1,7 +1,7 @@
 {
-  "id": 32,
-  "functionality": "Mass Sheet Exporter",
-  "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
-  "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
-  "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
+  "id": 6,
+  "functionality": "Format Case",
+  "title": "Format Case: Change Text Case in Excel Automatically",
+  "description": "Changes the capitalization of your text in one click — ALL CAPS, lowercase, Proper Case, or a web-friendly format like \"my-product-name\". Great for making product names, client names, or titles consistent across a long list without editing each cell manually.",
+  "url": "https://xlclick.com/tutorials/change-text-case-excel/"
 }
