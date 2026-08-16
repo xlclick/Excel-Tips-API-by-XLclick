@@ -1,7 +1,7 @@
 {
-  "id": 9,
-  "functionality": "Clear Comments",
-  "title": "Clear Comments: Remove All Excel Comments Instantly",
-  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
-  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
+  "id": 2,
+  "functionality": "Numbers",
+  "title": "Remove Text from Numbers in Excel Fast",
+  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
+  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
 }
