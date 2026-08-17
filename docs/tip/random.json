@@ -1,7 +1,7 @@
 {
-  "id": 1,
-  "functionality": "Emails",
-  "title": "Extract & Clean Email Lists in Excel",
-  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
-  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
+  "id": 22,
+  "functionality": "Fill Blanks",
+  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
 }
