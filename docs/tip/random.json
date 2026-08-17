@@ -1,7 +1,7 @@
 {
-  "id": 23,
-  "functionality": "Compare Lists",
-  "title": "Compare Lists: Compare Two Excel Lists for Differences",
-  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
-  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
+  "id": 14,
+  "functionality": "Combine Columns",
+  "title": "Combine Columns: Merge Multiple Excel Columns into One",
+  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
+  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
 }
