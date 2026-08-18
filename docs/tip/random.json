@@ -1,7 +1,7 @@
 {
-  "id": 5,
-  "functionality": "Data Anonymizer",
-  "title": "Data Anonymizer: How to Anonymize Sensitive Data in Excel",
-  "description": "Hides real names and emails before you share a file with someone outside your company. Replaces them with random but realistic-looking fake data. Keeps you compliant with privacy laws like GDPR without extra effort — essential before sharing files with freelancers or agencies.",
-  "url": "https://xlclick.com/tutorials/anonymize-data-excel/"
+  "id": 17,
+  "functionality": "Transpose Table",
+  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
+  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
+  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
 }
