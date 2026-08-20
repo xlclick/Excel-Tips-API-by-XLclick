@@ -1,7 +1,7 @@
 {
-  "id": 8,
-  "functionality": "Delete Empty Rows/Cols",
-  "title": "Delete All Empty Rows & Columns Fast in Excel",
-  "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
-  "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
+  "id": 31,
+  "functionality": "List Files",
+  "title": "List Files: Create an Excel List of All Folder Files",
+  "description": "Creates an Excel list of all files inside a folder on your computer — including file names, sizes, dates modified, and full paths. Can scan subfolders too. Great for file inventories, project handovers, audits, or documenting what exists in a folder to share with a client or team.",
+  "url": "https://xlclick.com/tutorials/list-folder-files-excel/"
 }
