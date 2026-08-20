@@ -1,7 +1,7 @@
 {
-  "id": 8,
-  "functionality": "Delete Empty Rows/Cols",
-  "title": "Delete All Empty Rows & Columns Fast in Excel",
-  "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
-  "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
+  "id": 3,
+  "functionality": "Links",
+  "title": "Extract Links & Domains from Excel Text",
+  "description": "Finds all website URLs hiding inside your text cells and pulls them into a clean separate column. You can extract just the domain name or the full web address. Useful when you have notes or descriptions with links buried in the text and need them organized.",
+  "url": "https://xlclick.com/tutorials/extract-links-excel/"
 }
