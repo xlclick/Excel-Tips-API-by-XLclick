@@ -1,7 +1,7 @@
 {
-  "id": 1,
-  "functionality": "Emails",
-  "title": "Extract & Clean Email Lists in Excel",
-  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
-  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
+  "id": 8,
+  "functionality": "Delete Empty Rows/Cols",
+  "title": "Delete All Empty Rows & Columns Fast in Excel",
+  "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
+  "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
 }
