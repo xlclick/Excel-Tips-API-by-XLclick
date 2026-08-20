@@ -1,7 +1,7 @@
 {
-  "id": 8,
-  "functionality": "Delete Empty Rows/Cols",
-  "title": "Delete All Empty Rows & Columns Fast in Excel",
-  "description": "Removes all blank rows and columns from your sheet in one click. Cleans up the mess left from deleted data and fixes the annoying infinite scroll issue where the spreadsheet seems to go on forever even when your real data ends much earlier.",
-  "url": "https://xlclick.com/tutorials/delete-empty-rows-columns-excel/"
+  "id": 17,
+  "functionality": "Transpose Table",
+  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
+  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
+  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
 }
