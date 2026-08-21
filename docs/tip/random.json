@@ -1,7 +1,7 @@
 {
-  "id": 30,
-  "functionality": "Bulk File Renamer",
-  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
-  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
-  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
+  "id": 2,
+  "functionality": "Numbers",
+  "title": "Remove Text from Numbers in Excel Fast",
+  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
+  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
 }
