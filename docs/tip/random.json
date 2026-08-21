@@ -1,7 +1,7 @@
 {
-  "id": 10,
-  "functionality": "Data Fixer",
-  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
-  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
-  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
+  "id": 30,
+  "functionality": "Bulk File Renamer",
+  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
 }
