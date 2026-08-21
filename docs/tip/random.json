@@ -1,7 +1,7 @@
 {
-  "id": 6,
-  "functionality": "Format Case",
-  "title": "Format Case: Change Text Case in Excel Automatically",
-  "description": "Changes the capitalization of your text in one click — ALL CAPS, lowercase, Proper Case, or a web-friendly format like \"my-product-name\". Great for making product names, client names, or titles consistent across a long list without editing each cell manually.",
-  "url": "https://xlclick.com/tutorials/change-text-case-excel/"
+  "id": 18,
+  "functionality": "Reverse Horizontal",
+  "title": "Reverse Horizontal: Reverse Excel Column Order",
+  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
+  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
 }
