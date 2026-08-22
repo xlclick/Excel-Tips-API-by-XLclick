@@ -1,7 +1,7 @@
 {
-  "id": 2,
-  "functionality": "Numbers",
-  "title": "Remove Text from Numbers in Excel Fast",
-  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
-  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
+  "id": 12,
+  "functionality": "Text to Columns",
+  "title": "Text to Columns: Split One Excel Column into Many",
+  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
+  "url": "https://xlclick.com/tutorials/split-columns-excel/"
 }
