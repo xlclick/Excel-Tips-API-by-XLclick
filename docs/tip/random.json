@@ -1,7 +1,7 @@
 {
-  "id": 21,
-  "functionality": "Sample Data Generator",
-  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
-  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
-  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
+  "id": 2,
+  "functionality": "Numbers",
+  "title": "Remove Text from Numbers in Excel Fast",
+  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
+  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
 }
