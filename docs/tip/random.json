@@ -1,7 +1,7 @@
 {
-  "id": 27,
-  "functionality": "Table Styler",
-  "title": "Table Styler: Make Professional Excel Tables in One Click",
-  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
-  "url": "https://xlclick.com/tutorials/table-styler-excel/"
+  "id": 22,
+  "functionality": "Fill Blanks",
+  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
 }
