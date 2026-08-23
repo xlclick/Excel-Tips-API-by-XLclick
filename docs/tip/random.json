@@ -1,7 +1,7 @@
 {
-  "id": 20,
-  "functionality": "Insert Blank Rows",
-  "title": "Insert Empty Rows at Regular Intervals in Excel",
-  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
-  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
+  "id": 25,
+  "functionality": "Power Search",
+  "title": "Power Search: The Ultimate Find & Replace for Excel",
+  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
+  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
 }
