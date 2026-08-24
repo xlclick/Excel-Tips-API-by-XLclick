@@ -1,7 +1,7 @@
 {
-  "id": 23,
-  "functionality": "Compare Lists",
-  "title": "Compare Lists: Compare Two Excel Lists for Differences",
-  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
-  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
+  "id": 17,
+  "functionality": "Transpose Table",
+  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
+  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
+  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
 }
