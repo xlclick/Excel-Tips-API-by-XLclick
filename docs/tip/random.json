@@ -1,7 +1,7 @@
 {
-  "id": 33,
-  "functionality": "Split Sheet to Files",
-  "title": "Split Sheet to Files: Split One Big Excel File into Many",
-  "description": "Breaks a huge sheet into smaller files. If you have 50000 rows and need to split into chunks of 10000 rows each, this does it automatically and adds the header row to every output file. Useful when a system has a row limit or a file is simply too large to upload or share.",
-  "url": "https://xlclick.com/tutorials/split-large-file-excel/"
+  "id": 5,
+  "functionality": "Data Anonymizer",
+  "title": "Data Anonymizer: How to Anonymize Sensitive Data in Excel",
+  "description": "Hides real names and emails before you share a file with someone outside your company. Replaces them with random but realistic-looking fake data. Keeps you compliant with privacy laws like GDPR without extra effort — essential before sharing files with freelancers or agencies.",
+  "url": "https://xlclick.com/tutorials/anonymize-data-excel/"
 }
