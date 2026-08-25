@@ -1,7 +1,7 @@
 {
-  "id": 32,
-  "functionality": "Mass Sheet Exporter",
-  "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
-  "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
-  "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
+  "id": 18,
+  "functionality": "Reverse Horizontal",
+  "title": "Reverse Horizontal: Reverse Excel Column Order",
+  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
+  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
 }
