@@ -1,7 +1,7 @@
 {
-  "id": 7,
-  "functionality": "Remove Text and Spaces",
-  "title": "Bulk Remove Text and Spaces in Excel",
-  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
-  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
+  "id": 23,
+  "functionality": "Compare Lists",
+  "title": "Compare Lists: Compare Two Excel Lists for Differences",
+  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
+  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
 }
