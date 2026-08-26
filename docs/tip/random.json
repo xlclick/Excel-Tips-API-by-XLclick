@@ -1,7 +1,7 @@
 {
-  "id": 12,
-  "functionality": "Text to Columns",
-  "title": "Text to Columns: Split One Excel Column into Many",
-  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
-  "url": "https://xlclick.com/tutorials/split-columns-excel/"
+  "id": 5,
+  "functionality": "Data Anonymizer",
+  "title": "Data Anonymizer: How to Anonymize Sensitive Data in Excel",
+  "description": "Hides real names and emails before you share a file with someone outside your company. Replaces them with random but realistic-looking fake data. Keeps you compliant with privacy laws like GDPR without extra effort — essential before sharing files with freelancers or agencies.",
+  "url": "https://xlclick.com/tutorials/anonymize-data-excel/"
 }
