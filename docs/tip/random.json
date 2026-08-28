@@ -1,7 +1,7 @@
 {
-  "id": 21,
-  "functionality": "Sample Data Generator",
-  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
-  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
-  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
+  "id": 11,
+  "functionality": "Deduplicate",
+  "title": "Deduplicate: Find & Remove Duplicates in Excel",
+  "description": "Finds and removes duplicate entries from your list. If the same email or name appears multiple times, you keep one and delete the rest. You can also highlight duplicates first to review them, or copy only the unique values to a new sheet.",
+  "url": "https://xlclick.com/tutorials/remove-duplicates-excel/"
 }
