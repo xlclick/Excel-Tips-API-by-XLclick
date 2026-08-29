@@ -1,7 +1,7 @@
 {
-  "id": 23,
-  "functionality": "Compare Lists",
-  "title": "Compare Lists: Compare Two Excel Lists for Differences",
-  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
-  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
+  "id": 33,
+  "functionality": "Split Sheet to Files",
+  "title": "Split Sheet to Files: Split One Big Excel File into Many",
+  "description": "Breaks a huge sheet into smaller files. If you have 50000 rows and need to split into chunks of 10000 rows each, this does it automatically and adds the header row to every output file. Useful when a system has a row limit or a file is simply too large to upload or share.",
+  "url": "https://xlclick.com/tutorials/split-large-file-excel/"
 }
