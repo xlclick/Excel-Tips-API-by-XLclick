@@ -1,7 +1,7 @@
 {
-  "id": 27,
-  "functionality": "Table Styler",
-  "title": "Table Styler: Make Professional Excel Tables in One Click",
-  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
-  "url": "https://xlclick.com/tutorials/table-styler-excel/"
+  "id": 23,
+  "functionality": "Compare Lists",
+  "title": "Compare Lists: Compare Two Excel Lists for Differences",
+  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
+  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
 }
