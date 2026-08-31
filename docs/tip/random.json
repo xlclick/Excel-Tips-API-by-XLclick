@@ -1,7 +1,7 @@
 {
-  "id": 2,
-  "functionality": "Numbers",
-  "title": "Remove Text from Numbers in Excel Fast",
-  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
-  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
+  "id": 32,
+  "functionality": "Mass Sheet Exporter",
+  "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
+  "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
+  "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
 }
