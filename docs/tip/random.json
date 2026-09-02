@@ -1,7 +1,7 @@
 {
-  "id": 11,
-  "functionality": "Deduplicate",
-  "title": "Deduplicate: Find & Remove Duplicates in Excel",
-  "description": "Finds and removes duplicate entries from your list. If the same email or name appears multiple times, you keep one and delete the rest. You can also highlight duplicates first to review them, or copy only the unique values to a new sheet.",
-  "url": "https://xlclick.com/tutorials/remove-duplicates-excel/"
+  "id": 24,
+  "functionality": "Data Matcher",
+  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
+  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
+  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
 }
