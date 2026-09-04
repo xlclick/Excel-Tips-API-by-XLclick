@@ -1,7 +1,7 @@
 {
-  "id": 22,
-  "functionality": "Fill Blanks",
-  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
-  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
-  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
+  "id": 9,
+  "functionality": "Clear Comments",
+  "title": "Clear Comments: Remove All Excel Comments Instantly",
+  "description": "Removes all comments and sticky notes from your entire file — every sheet, all at once. Use it before sending a file to a client so they do not see your internal notes, draft comments, or any discussion that was not meant for them.",
+  "url": "https://xlclick.com/tutorials/remove-comments-excel/"
 }
