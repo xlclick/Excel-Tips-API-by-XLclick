@@ -1,7 +1,7 @@
 {
-  "id": 20,
-  "functionality": "Insert Blank Rows",
-  "title": "Insert Empty Rows at Regular Intervals in Excel",
-  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
-  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
+  "id": 22,
+  "functionality": "Fill Blanks",
+  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
 }
