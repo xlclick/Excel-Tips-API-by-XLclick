@@ -1,7 +1,7 @@
 {
-  "id": 0,
-  "functionality": "Deep Refresh",
-  "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
-  "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
-  "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
+  "id": 7,
+  "functionality": "Remove Text and Spaces",
+  "title": "Bulk Remove Text and Spaces in Excel",
+  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
+  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
 }
