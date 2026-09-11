@@ -1,7 +1,7 @@
 {
-  "id": 12,
-  "functionality": "Text to Columns",
-  "title": "Text to Columns: Split One Excel Column into Many",
-  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
-  "url": "https://xlclick.com/tutorials/split-columns-excel/"
+  "id": 14,
+  "functionality": "Combine Columns",
+  "title": "Combine Columns: Merge Multiple Excel Columns into One",
+  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
+  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
 }
