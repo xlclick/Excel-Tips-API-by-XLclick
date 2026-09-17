@@ -1,7 +1,7 @@
 {
-  "id": 0,
-  "functionality": "Deep Refresh",
-  "title": "Deep Refresh: Refresh ALL Excel Data in One Click",
-  "description": "One click updates everything in your spreadsheet at once — formulas recalculate, charts refresh, pivot tables rebuild, and external data reloads. Use it every time you import new data and want to make sure nothing is showing old or wrong values. No need to trigger each part manually.",
-  "url": "https://xlclick.com/tutorials/deep-refresh-excel-data/"
+  "id": 29,
+  "functionality": "File Downloader",
+  "title": "File Downloader: Download Hundreds of Files from Excel URLs",
+  "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
+  "url": "https://xlclick.com/tutorials/download-files-url-excel/"
 }
