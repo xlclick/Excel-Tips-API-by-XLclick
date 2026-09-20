@@ -1,7 +1,7 @@
 {
-  "id": 25,
-  "functionality": "Power Search",
-  "title": "Power Search: The Ultimate Find & Replace for Excel",
-  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
-  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
+  "id": 18,
+  "functionality": "Reverse Horizontal",
+  "title": "Reverse Horizontal: Reverse Excel Column Order",
+  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
+  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
 }
