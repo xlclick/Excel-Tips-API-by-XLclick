@@ -1,7 +1,7 @@
 {
-  "id": 25,
-  "functionality": "Power Search",
-  "title": "Power Search: The Ultimate Find & Replace for Excel",
-  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
-  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
+  "id": 26,
+  "functionality": "Focus Mode",
+  "title": "Focus Mode: Never Lose Your Place in Excel Again",
+  "description": "Highlights the row and column of the cell you are currently in, so you never lose your place in a large spreadsheet. The highlight follows your selection automatically. Simple but incredibly useful when working with wide or long tables where it is easy to read the wrong row.",
+  "url": "https://xlclick.com/tutorials/focus-mode-excel/"
 }
