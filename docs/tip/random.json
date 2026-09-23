@@ -1,7 +1,7 @@
 {
-  "id": 28,
-  "functionality": "Color Analysis",
-  "title": "Color Analysis: Sum & Count Cells by Color in Excel",
-  "description": "Counts and sums cells based on their background color. If you color-code your tasks or data — red for urgent, green for done — this tool tells you how many cells of each color you have and what their total value is. There is no built-in Excel formula that can do this.",
-  "url": "https://xlclick.com/tutorials/count-sum-color-excel/"
+  "id": 12,
+  "functionality": "Text to Columns",
+  "title": "Text to Columns: Split One Excel Column into Many",
+  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
+  "url": "https://xlclick.com/tutorials/split-columns-excel/"
 }
