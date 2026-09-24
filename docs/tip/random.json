@@ -1,7 +1,7 @@
 {
-  "id": 30,
-  "functionality": "Bulk File Renamer",
-  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
-  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
-  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
+  "id": 19,
+  "functionality": "Reverse Vertical",
+  "title": "Reverse Vertical: Reverse Excel Row Order",
+  "description": "Flips the row order from top to bottom — the last row becomes the first. Useful when your data is sorted oldest to newest and you need newest first, or any time you need to invert a list quickly without manually resorting it.",
+  "url": "https://xlclick.com/tutorials/reverse-rows-excel/"
 }
