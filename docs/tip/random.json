@@ -1,7 +1,7 @@
 {
-  "id": 23,
-  "functionality": "Compare Lists",
-  "title": "Compare Lists: Compare Two Excel Lists for Differences",
-  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
-  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
+  "id": 1,
+  "functionality": "Emails",
+  "title": "Extract & Clean Email Lists in Excel",
+  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
+  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
 }
