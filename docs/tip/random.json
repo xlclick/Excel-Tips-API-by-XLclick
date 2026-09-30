@@ -1,7 +1,7 @@
 {
-  "id": 17,
-  "functionality": "Transpose Table",
-  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
-  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
-  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
+  "id": 1,
+  "functionality": "Emails",
+  "title": "Extract & Clean Email Lists in Excel",
+  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
+  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
 }
