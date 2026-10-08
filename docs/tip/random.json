@@ -1,7 +1,7 @@
 {
-  "id": 2,
-  "functionality": "Numbers",
-  "title": "Remove Text from Numbers in Excel Fast",
-  "description": "Got cells with text and numbers mixed together — like \"Price: $29.99\" or \"150 units\"? This tool strips everything away and leaves only the number. Perfect for cleaning data copied from websites or exported from other software that mixes labels with values.",
-  "url": "https://xlclick.com/tutorials/remove-text-numbers-excel/"
+  "id": 7,
+  "functionality": "Remove Text and Spaces",
+  "title": "Bulk Remove Text and Spaces in Excel",
+  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
+  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
 }
