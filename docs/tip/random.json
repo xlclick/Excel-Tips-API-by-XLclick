@@ -1,7 +1,7 @@
 {
-  "id": 6,
-  "functionality": "Format Case",
-  "title": "Format Case: Change Text Case in Excel Automatically",
-  "description": "Changes the capitalization of your text in one click — ALL CAPS, lowercase, Proper Case, or a web-friendly format like \"my-product-name\". Great for making product names, client names, or titles consistent across a long list without editing each cell manually.",
-  "url": "https://xlclick.com/tutorials/change-text-case-excel/"
+  "id": 12,
+  "functionality": "Text to Columns",
+  "title": "Text to Columns: Split One Excel Column into Many",
+  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
+  "url": "https://xlclick.com/tutorials/split-columns-excel/"
 }
