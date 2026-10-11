@@ -1,7 +1,7 @@
 {
-  "id": 27,
-  "functionality": "Table Styler",
-  "title": "Table Styler: Make Professional Excel Tables in One Click",
-  "description": "Makes your table look professional in one click. It freezes the header row so it stays visible when you scroll, adds alternating row colors for readability, styles the header, and auto-adjusts column widths to fit the content. No manual formatting needed at all.",
-  "url": "https://xlclick.com/tutorials/table-styler-excel/"
+  "id": 30,
+  "functionality": "Bulk File Renamer",
+  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
 }
