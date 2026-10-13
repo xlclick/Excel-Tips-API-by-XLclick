@@ -1,7 +1,7 @@
 {
-  "id": 4,
-  "functionality": "Pattern Matcher",
-  "title": "Extract Specific Text Patterns in Excel",
-  "description": "Pulls a specific piece of text from your cells based on a pattern you define — for example, everything between two symbols, the first few characters, or text after a specific word. Great for cleaning up product codes, invoice numbers, or any data that follows a consistent format.",
-  "url": "https://xlclick.com/tutorials/extract-text-patterns-excel/"
+  "id": 17,
+  "functionality": "Transpose Table",
+  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
+  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
+  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
 }
