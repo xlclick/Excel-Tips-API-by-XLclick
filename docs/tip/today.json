@@ -1,7 +1,7 @@
 {
-  "id": 13,
-  "functionality": "Split to Rows",
-  "title": "Split Cell Contents into Multiple Rows in Excel",
-  "description": "Our most loved feature: converts a single cell with multiple values into separate rows. This tool splits delimited text into new rows while duplicating adjacent data. It processes your selected column and outputs the reorganized results onto a new sheet.",
-  "url": "https://xlclick.com/tutorials/split-cells-rows-excel/"
+  "id": 14,
+  "functionality": "Combine Columns",
+  "title": "Combine Columns: Merge Multiple Excel Columns into One",
+  "description": "Merges text from multiple columns into one. Join First Name and Last Name into Full Name, or combine City and Country into one address field. You choose what goes between them — a space, a comma, a dash, or nothing at all.",
+  "url": "https://xlclick.com/tutorials/merge-columns-excel/"
 }
