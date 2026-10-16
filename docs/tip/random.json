@@ -1,7 +1,7 @@
 {
-  "id": 1,
-  "functionality": "Emails",
-  "title": "Extract & Clean Email Lists in Excel",
-  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
-  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
+  "id": 18,
+  "functionality": "Reverse Horizontal",
+  "title": "Reverse Horizontal: Reverse Excel Column Order",
+  "description": "Flips the column order from left to right — what was on the left is now on the right and vice versa. The result goes to a new sheet. Useful when your data is in the wrong direction for a specific report, chart, or tool you need to use it in.",
+  "url": "https://xlclick.com/tutorials/reverse-columns-excel/"
 }
