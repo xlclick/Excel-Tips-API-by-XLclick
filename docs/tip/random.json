@@ -1,7 +1,7 @@
 {
-  "id": 4,
-  "functionality": "Pattern Matcher",
-  "title": "Extract Specific Text Patterns in Excel",
-  "description": "Pulls a specific piece of text from your cells based on a pattern you define — for example, everything between two symbols, the first few characters, or text after a specific word. Great for cleaning up product codes, invoice numbers, or any data that follows a consistent format.",
-  "url": "https://xlclick.com/tutorials/extract-text-patterns-excel/"
+  "id": 22,
+  "functionality": "Fill Blanks",
+  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
 }
