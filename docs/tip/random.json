@@ -1,7 +1,7 @@
 {
-  "id": 17,
-  "functionality": "Transpose Table",
-  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
-  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
-  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
+  "id": 24,
+  "functionality": "Data Matcher",
+  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
+  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
+  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
 }
