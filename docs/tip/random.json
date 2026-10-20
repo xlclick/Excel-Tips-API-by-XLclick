@@ -1,7 +1,7 @@
 {
-  "id": 24,
-  "functionality": "Data Matcher",
-  "title": "Data Matcher: Connect Two Sheets Without VLOOKUP in Excel",
-  "description": "Connects data from two different sheets without writing any formula. You pick the value to look up, where to find the match, and what data to bring back — and it builds the lookup formula automatically. No VLOOKUP knowledge needed, works in three clicks.",
-  "url": "https://xlclick.com/tutorials/lookup-without-vlookup-excel/"
+  "id": 25,
+  "functionality": "Power Search",
+  "title": "Power Search: The Ultimate Find & Replace for Excel",
+  "description": "A smarter find and replace. Search across all your sheets at once, highlight matches in color before replacing, use exact case matching, or search by pattern. Much more powerful than the built-in Excel search, and lets you review every match before making any changes.",
+  "url": "https://xlclick.com/tutorials/advanced-search-replace-excel/"
 }
