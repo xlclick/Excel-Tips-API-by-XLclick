@@ -1,7 +1,7 @@
 {
-  "id": 7,
-  "functionality": "Remove Text and Spaces",
-  "title": "Bulk Remove Text and Spaces in Excel",
-  "description": "Removes unwanted text from your cells in bulk — like a prefix \"ID:\" in front of every code, or extra invisible spaces that sneak in when copying from websites. You can strip the first few characters, the last few, or anything matching a pattern you define.",
-  "url": "https://xlclick.com/tutorials/remove-text-spaces-excel/"
+  "id": 10,
+  "functionality": "Data Fixer",
+  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
 }
