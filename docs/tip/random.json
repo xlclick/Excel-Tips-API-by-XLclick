@@ -1,7 +1,7 @@
 {
-  "id": 31,
-  "functionality": "List Files",
-  "title": "List Files: Create an Excel List of All Folder Files",
-  "description": "Creates an Excel list of all files inside a folder on your computer — including file names, sizes, dates modified, and full paths. Can scan subfolders too. Great for file inventories, project handovers, audits, or documenting what exists in a folder to share with a client or team.",
-  "url": "https://xlclick.com/tutorials/list-folder-files-excel/"
+  "id": 22,
+  "functionality": "Fill Blanks",
+  "title": "Fill Blanks: Fill Empty Excel Cells Automatically",
+  "description": "Fills empty cells automatically. You can fill every blank with a fixed value, or copy the value from the cell above, below, left, or right. Saves time when a category or label only appears once in a column but needs to be repeated on every row for filtering or pivot tables to work.",
+  "url": "https://xlclick.com/tutorials/fill-blank-cells-excel/"
 }
