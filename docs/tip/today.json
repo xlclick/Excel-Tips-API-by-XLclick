@@ -1,7 +1,7 @@
 {
-  "id": 30,
-  "functionality": "Bulk File Renamer",
-  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
-  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
-  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
+  "id": 31,
+  "functionality": "List Files",
+  "title": "List Files: Create an Excel List of All Folder Files",
+  "description": "Creates an Excel list of all files inside a folder on your computer — including file names, sizes, dates modified, and full paths. Can scan subfolders too. Great for file inventories, project handovers, audits, or documenting what exists in a folder to share with a client or team.",
+  "url": "https://xlclick.com/tutorials/list-folder-files-excel/"
 }
