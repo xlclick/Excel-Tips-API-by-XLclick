@@ -1,7 +1,7 @@
 {
-  "id": 17,
-  "functionality": "Transpose Table",
-  "title": "Transpose Table: Swap Excel Rows and Columns Instantly",
-  "description": "Flips your table so rows become columns and columns become rows. If your months are across the top and products go down the side, this swaps them. The result goes to a new sheet so your original stays safe and untouched.",
-  "url": "https://xlclick.com/tutorials/transpose-data-excel/"
+  "id": 10,
+  "functionality": "Data Fixer",
+  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
+  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
+  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
 }
