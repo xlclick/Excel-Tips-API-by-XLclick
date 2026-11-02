@@ -1,7 +1,7 @@
 {
-  "id": 10,
-  "functionality": "Data Fixer",
-  "title": "Data Fixer: Fix Common Excel Data Errors in Bulk",
-  "description": "Fixes the most common spreadsheet problems in bulk: numbers stored as text that will not calculate, plain URLs that are not clickable, and formulas you want to turn into fixed values. Also removes leftover colors and styles from imported data.",
-  "url": "https://xlclick.com/tutorials/fix-data-errors-excel/"
+  "id": 1,
+  "functionality": "Emails",
+  "title": "Extract & Clean Email Lists in Excel",
+  "description": "Paste a messy list of contacts and this tool pulls out only the email addresses into a clean list. It also fixes common typos automatically — like \"gmial.com\" becoming \"gmail.com\". Great for cleaning up your contact list before sending a newsletter or importing into your email platform.",
+  "url": "https://xlclick.com/tutorials/clean-emails-excel/"
 }
