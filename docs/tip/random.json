@@ -1,7 +1,7 @@
 {
-  "id": 15,
-  "functionality": "Combine Rows",
-  "title": "Combine Rows: Merge Multiple Excel Rows into One Cell",
-  "description": "Merges multiple rows into one cell. If you have tags, options, or values spread across several rows for the same item, this collapses them into a single cell with a separator of your choice. Handy for summarizing lists or preparing data for export.",
-  "url": "https://xlclick.com/tutorials/merge-rows-cell-excel/"
+  "id": 30,
+  "functionality": "Bulk File Renamer",
+  "title": "Bulk File Renamer: Rename Folders of Files Using Excel",
+  "description": "Renames files on your computer using values from your spreadsheet. Point it to a folder, tell it which column has the current file names and which has the new names, and it renames everything in seconds. Eliminates one of the most tedious manual tasks in file management.",
+  "url": "https://xlclick.com/tutorials/bulk-rename-files-excel/"
 }
