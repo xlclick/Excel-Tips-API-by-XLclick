@@ -1,7 +1,7 @@
 {
-  "id": 29,
-  "functionality": "File Downloader",
-  "title": "File Downloader: Download Hundreds of Files from Excel URLs",
-  "description": "Downloads files from a list of URLs directly to your computer. Give it a column of image or PDF links and it saves everything to a folder. You can also tell it what to rename each file based on another column in your spreadsheet. Handles hundreds of files automatically.",
-  "url": "https://xlclick.com/tutorials/download-files-url-excel/"
+  "id": 21,
+  "functionality": "Sample Data Generator",
+  "title": "Sample Data Generator: Generate Realistic Fake Data in Excel",
+  "description": "Creates realistic fake data for testing — names, email addresses, phone numbers. Choose how many rows you need and whether to sort randomly or alphabetically. Perfect when you need to demo a spreadsheet or test an import without using real customer data.",
+  "url": "https://xlclick.com/tutorials/generate-sample-data-excel/"
 }
