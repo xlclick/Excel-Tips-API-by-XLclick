@@ -1,7 +1,7 @@
 {
-  "id": 32,
-  "functionality": "Mass Sheet Exporter",
-  "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
-  "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
-  "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
+  "id": 12,
+  "functionality": "Text to Columns",
+  "title": "Text to Columns: Split One Excel Column into Many",
+  "description": "Split cells into columns using commas, semicolons, or custom delimiters. It allows users to select a range and a delimiter to instantly split text into multiple columns to the right.",
+  "url": "https://xlclick.com/tutorials/split-columns-excel/"
 }
