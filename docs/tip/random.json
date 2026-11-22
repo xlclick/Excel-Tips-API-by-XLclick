@@ -1,7 +1,7 @@
 {
-  "id": 32,
-  "functionality": "Mass Sheet Exporter",
-  "title": "Mass Sheet Exporter: Export Every Excel Sheet as a New File",
-  "description": "Saves every sheet in your workbook as its own separate Excel file in a folder you choose. If you have 12 sheets — one per client or one per month — it exports all 12 individual files automatically. Eliminates the repetitive task of opening, saving, and closing each sheet one by one.",
-  "url": "https://xlclick.com/tutorials/export-sheets-files-excel/"
+  "id": 23,
+  "functionality": "Compare Lists",
+  "title": "Compare Lists: Compare Two Excel Lists for Differences",
+  "description": "Compares two lists and tells you exactly what they have in common, what is only in the first list, and what is only in the second. Results go to a new clean sheet. Ideal for checking if your client list matches your invoicing list, or finding gaps between any two datasets.",
+  "url": "https://xlclick.com/tutorials/compare-lists-excel/"
 }
