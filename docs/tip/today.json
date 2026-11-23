@@ -1,7 +1,7 @@
 {
-  "id": 19,
-  "functionality": "Reverse Vertical",
-  "title": "Reverse Vertical: Reverse Excel Row Order",
-  "description": "Flips the row order from top to bottom — the last row becomes the first. Useful when your data is sorted oldest to newest and you need newest first, or any time you need to invert a list quickly without manually resorting it.",
-  "url": "https://xlclick.com/tutorials/reverse-rows-excel/"
+  "id": 20,
+  "functionality": "Insert Blank Rows",
+  "title": "Insert Empty Rows at Regular Intervals in Excel",
+  "description": "Adds empty rows between your data at regular intervals. For example, insert one blank row after every row, or every five rows. Useful for printing, creating visual separation between groups, or preparing a template with space for manual entries between rows.",
+  "url": "https://xlclick.com/tutorials/insert-blank-rows-excel/"
 }
